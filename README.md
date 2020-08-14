@@ -1,2 +1,2 @@
-# chemistry
+# Chemistry
 Chemistry and Biochemistry 
